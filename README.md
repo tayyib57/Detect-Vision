@@ -303,6 +303,3 @@ We love your input! Please see our [contributing guide](https://github.com/robof
       </a>
   </div>
 </div>
-#   D e t e c t - V i s i o n  
- #   D e t e c t - V i s i o n  
- 
